@@ -34,7 +34,7 @@ This project involves a thorough exploration and analysis of Covid-19 data using
 3. Run the provided SQL scripts to perform the analysis.
 
 ### Files
-- `covid_analysis.sql`: Contains all the SQL queries for the project.
+- `COVID Portfolio Project - Data Exploration.sql`: Contains all the SQL queries for the project.
 
 ---
 
@@ -75,4 +75,4 @@ This project focuses on cleaning and analyzing Nashville housing data using vari
 3. Run the provided SQL scripts to clean the data.
 
 ### Files
-- `nashville_housing_cleanup.sql`: Contains all the SQL queries for the project.
+- `Data Cleaning Portfolio Project Queries.sql`: Contains all the SQL queries for the project.
